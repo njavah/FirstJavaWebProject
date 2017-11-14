@@ -1,0 +1,4 @@
+
+*.java
+firstwebproject/src/MainTest/TestMain.java
+firstwebproject/out/artifacts/firstwebproject_war_exploded/WEB-INF/lib/spring-instrument-tomcat-4.0.5.RELEASE.jar
